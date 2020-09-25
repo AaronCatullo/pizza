@@ -10,7 +10,7 @@ and learn as much as possible.
 
 ## Special Thanks
 
-Thanks to Thinkful for the great insight
-Thank you to GitHub for an awesome platform
+Thanks to Thinkful for the great insight.
+Thank you to GitHub for an awesome platform.
 Thank you to all the previous developers out there, whom
 with out their hard work and dedication, none of this would be possible.
